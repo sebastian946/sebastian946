@@ -1,5 +1,6 @@
 # 💫 About Me:
-I´m working as a QA Manual and Automation, but I'm interested in the machine learning and data science<br>area.
+I'm SDET engineer working on manual testing and automation testing with experience with pipelines and different clouds.
+Also I'm very interesting on mobile application with react native and expo and videogames with godot, this is my hobby try to make mobile application and some games for get my own company.
 
 
 ## 🌐 Socials:
