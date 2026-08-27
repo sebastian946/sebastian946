@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-- 🧪 **6+ years** delivering software quality across **fintech, e-commerce, and financial services**
+- 🧪 **7+ years** delivering software quality across **fintech, e-commerce, and financial services**
 - 🤖 Currently **transitioning into AI Engineering** — building LLM-powered tools with LangChain, LangGraph, RAG & the Anthropic API
 - ⚙️ Expert in **Playwright · Cypress · Selenium · REST Assured · K6** with deep CI/CD integration
 - 🐳 Containerized automation pipelines with **Docker + Kubernetes + GitHub Actions**
